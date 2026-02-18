@@ -1,8 +1,6 @@
-AutoFinance_Tracker_Cron-Based_Reporting_System
-
 Managing personal finances is an essential part of everyday life.However,many people struggle to track expenses,categorize spending,analyze trends,or monitor investments effectively.Manual finance tracking is often time-consuming, unorganized,and prone to errors.
 
-To address these challenges,the project was developed using **Linux Shell Scripting (Bash)**.  This project provides an interactive command-line system that automates daily expense recording, budget monitoring, report generation, and investment tracking in an organized and efficient manner.
+To address these challenges,I developed a project using **Linux Shell Scripting (Bash)**.This project provides an interactive command-line system that automates daily expense recording, budget monitoring, report generation, and investment tracking in an organized and efficient manner.
 
 The system stores all expenses, categories, and investments in structured files such as **CSV** and **TXT** formats. Users can:
 

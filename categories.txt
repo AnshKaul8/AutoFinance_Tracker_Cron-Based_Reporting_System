@@ -1,0 +1,7 @@
+Food
+Travel
+Bills
+Entertainment
+Shopping
+Other
+

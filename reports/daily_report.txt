@@ -1,0 +1,31 @@
+===== Daily Report: 2025-11-21 =====
+
+----- TODAY'S EXPENSES -----
+₹13375
+
+Category-wise Spending Today:
+₹13375
+2025-11-21 | Food | Lunch | ₹145
+2025-11-21 | Travel | Metro | ₹60
+2025-11-21 | Entertainment | Went to trade fair with friends | ₹145
+2025-11-21 | Shopping | Did shopping | ₹13000
+2025-11-21 | Food | street food | ₹25
+Entertainment : ₹145
+Travel : ₹60
+Shopping : ₹13000
+Food : ₹170
+
+Total Spent Today:
+₹13375
+
+Category-wise Spending Today:
+
+Category-wise Spending Today:
+Entertainment : ₹145
+Travel : ₹60
+Shopping : ₹13000
+Food : ₹170
+Entertainment : ₹145
+Travel : ₹60
+Shopping : ₹13000
+Food : ₹170

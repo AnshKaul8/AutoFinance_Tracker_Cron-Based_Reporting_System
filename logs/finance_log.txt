@@ -1,0 +1,9 @@
+Fri Nov 21 02:15:36 PM IST 2025 -- food limit exceeded
+Fri Nov 21 02:15:36 PM IST 2025 -- Monthly budget exceeded
+Fri Nov 21 02:28:11 PM IST 2025 -- Investment budget exceeded
+Fri Nov 21 04:12:44 PM IST 2025 -- Investment budget exceeded
+Fri Nov 21 04:13:50 PM IST 2025 -- Investment budget exceeded
+Fri Nov 21 07:35:26 PM IST 2025 -- Category Food limit exceeded
+Fri Nov 21 07:35:26 PM IST 2025 -- Investment budget exceeded
+Sat Nov 22 09:29:06 AM IST 2025 -- Category food limit exceeded
+Sat Nov 22 10:44:26 AM IST 2025 -- Category food limit exceeded
